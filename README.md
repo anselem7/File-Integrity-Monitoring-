@@ -5,7 +5,7 @@ This project demonstrates the implementation of a basic File Integrity Monitorin
 
 File Integrity Monitoring is an essential security control that supports the Integrity component of the CIA Triad (Confidentiality, Integrity, and Availability). By continuously monitoring critical files, organizations can quickly identify unauthorized modifications, deletions, or additions that may indicate malicious activity or system compromise.
 
-## Objectives
+## 📌 Objectives
 - Understand the role of Integrity within the CIA Triad.
 - Learn how cryptographic hashing is used to verify file integrity.
 - Build a PowerShell-based File Integrity Monitoring solution.
@@ -13,7 +13,7 @@ File Integrity Monitoring is an essential security control that supports the Int
 - Establish a baseline of trusted files for comparison.
 - Gain hands-on experience with PowerShell scripting and automation.
 
-## Technologies & Tools Used
+## 👨🏾‍💻 Technologies & Tools Used
 - PowerShell
 - SHA-512 Hashing Algorithm
 - Get-FileHash Cmdlet
@@ -21,7 +21,7 @@ File Integrity Monitoring is an essential security control that supports the Int
 - File System Operations
 - Windows Operating System
 
-## Key Concepts
+## 🔑 Key Concepts
 CIA Triad
 - Confidentiality: Protecting information from unauthorized access.
 
@@ -33,7 +33,7 @@ CIA Triad
 
 - Hashing: A cryptographic hash acts as a digital fingerprint for a file. Even a minor modification to a file produces a significantly different hash value, making hashing an effective method for integrity verification.
 
-## Project Structure
+## 🗂️ Project Structure
 ```
 Project Folder/
 │
@@ -45,12 +45,12 @@ Project Folder/
 ├── baseline.txt
 └── fim.ps1
 ```
-## Components
+## 📂 Components
 - fim.ps1:	Main monitoring script
 - baseline.txt:	Stores file paths and corresponding hashes
 - files/:	Directory containing monitored files
 
-## Features
+## 📄 Features
 - Baseline generation using SHA-512 hashing.
 - Detection of newly created files.
 - Detection of modified files.
@@ -59,7 +59,7 @@ Project Folder/
 - Console-based alert notifications.
 - Color-coded event messages.
 
-## Implementation Steps
+## 📊 Implementation Steps
 
 ### 1. Baseline Collection
 
