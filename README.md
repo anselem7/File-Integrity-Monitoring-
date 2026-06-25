@@ -96,7 +96,7 @@ The monitoring engine runs continuously and:
 
 The script pauses for one second between monitoring cycles.
 
-## Event Detection
+## 🕵️‍♂️ Event Detection
 ### File Creation
 Triggered when a file exists in the monitored directory but does not exist in the baseline.
 ```
@@ -165,6 +165,6 @@ Through this project, I gained practical experience in:
 - Designing foundational cybersecurity automation tools.
 
 
-## Conclusion
+## ✅ Conclusion
 
 This project provides a foundational implementation of a File Integrity Monitoring system using PowerShell. By leveraging SHA-512 hashing and baseline comparisons, the solution can identify unauthorized file changes, deletions, and additions. While intentionally simple, it demonstrates core concepts used by enterprise-grade FIM solutions and serves as a strong starting point for further cybersecurity and automation projects.
