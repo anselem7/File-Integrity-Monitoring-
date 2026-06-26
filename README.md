@@ -127,7 +127,7 @@ Used to store baseline information in memory.
 
 (Key) File Path	--> (Value) SHA-512 Hash
 
-## Functions
+## 🧰 Functions
 ### CalculateFileHash()
 
 Calculates the SHA-512 hash of a specified file.
