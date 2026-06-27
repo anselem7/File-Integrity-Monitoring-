@@ -112,7 +112,7 @@ Triggered when a file recorded in the baseline no longer exists.
 ```
 File deleted!
 ```
-## Core Data Structures
+## 📈 Core Data Structures
 ### Baseline File
 
 baseline.txt
