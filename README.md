@@ -142,7 +142,7 @@ Test-Path
 Remove-Item
 ```
 
-## Skills Demonstrated
+## 🧐 Skills Demonstrated
 - Cybersecurity Fundamentals
 - File Integrity Monitoring
 - PowerShell Scripting
@@ -153,7 +153,7 @@ Remove-Item
 - Security Operations Concepts
 - Incident Detection Techniques
 
-## Learning Outcomes
+## ✍️ Learning Outcomes
 
 Through this project, I gained practical experience in:
 
