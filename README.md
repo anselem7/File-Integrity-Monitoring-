@@ -107,7 +107,7 @@ Triggered when a file's current hash differs from its baseline hash.
 ```
 File modified!
 ```
-###File Deletion
+### File Deletion
 Triggered when a file recorded in the baseline no longer exists.
 ```
 File deleted!
