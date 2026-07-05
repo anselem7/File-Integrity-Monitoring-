@@ -59,7 +59,7 @@ Project Folder/
 - Console-based alert notifications.
 - Color-coded event messages.
 
-## 📊 Implementation Steps
+## 🪜 Implementation Steps
 
 ### 1. Baseline Collection
 
