@@ -1,7 +1,7 @@
 # File_Integrity_Monitor
 ## 🎬 Introduction
 
-This project demonstrates the implementation of a basic File Integrity Monitoring (FIM) system using PowerShell. The tool monitors files for unauthorized changes by comparing their current cryptographic hashes against a previously established baseline.
+This project demonstrates the implementation of a File Integrity Monitoring (FIM) system using PowerShell. The tool monitors files for unauthorized changes by comparing their current cryptographic hashes against a previously established baseline.
 
 File Integrity Monitoring is an essential security control that supports the Integrity component of the CIA Triad (Confidentiality, Integrity, and Availability). By continuously monitoring critical files, organizations can quickly identify unauthorized modifications, deletions, or additions that may indicate malicious activity or system compromise.
 
