@@ -149,8 +149,7 @@ Remove-Item
 - Cryptographic Hashing
 - Automation
 - File System Monitoring
-- Data Structures (Hash Tables)
-- Security Operations Concepts
+- Data Structures (Hash Tables)ons Concepts
 - Incident Detection Techniques
 
 ## ✍️ Learning Outcomes
