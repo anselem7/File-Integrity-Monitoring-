@@ -1,4 +1,4 @@
-# File_Integrity_Monitor
+# File Integrity Monitor (FIM)
 ##  🔝 Introduction
 
 This project demonstrates the implementation of a File Integrity Monitoring (FIM) system using PowerShell. The tool monitors files for unauthorized changes by comparing their current cryptographic hashes against a previously established baseline.
