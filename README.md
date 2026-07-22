@@ -97,17 +97,17 @@ The monitoring engine runs continuously and:
 The script pauses for one second between monitoring cycles.
 
 ## 🕵️‍♂️ Event Detection
-### File Creation
+### 1. File Creation
 Triggered when a file exists in the monitored directory but does not exist in the baseline.
 ```
 New file detected!
 ```
-### File Modification
+### 2. File Modification
 Triggered when a file's current hash differs from its baseline hash.
 ```
 File modified!
 ```
-### File Deletion
+### 3. File Deletion
 Triggered when a file recorded in the baseline no longer exists.
 ```
 File deleted!
