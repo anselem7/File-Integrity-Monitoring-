@@ -154,7 +154,7 @@ Remove-Item
 
 ## ✍️ Learning Outcomes
 
-Through this project, I gained practical experience:
+Through this project, I gained practical experience in:
 
 - Understanding the Integrity principle of the CIA Triad.
 - Using cryptographic hashes to verify file integrity.
