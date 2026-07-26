@@ -65,7 +65,7 @@ Project Folder/
 
 The script scans all files inside the monitored directory and:
 
-- Calculates a SHA-512 hash for each file.
+- Calculates SHA-512 hash for each file.
 - Records file paths and hashes.
 - Stores results in baseline.txt.
 - Removes any existing baseline file before creating a new one.
