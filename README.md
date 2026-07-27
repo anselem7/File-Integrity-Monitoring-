@@ -6,12 +6,12 @@ This project demonstrates the implementation of a File Integrity Monitoring (FIM
 File Integrity Monitoring is an essential security control that supports the Integrity component of the CIA Triad (Confidentiality, Integrity, and Availability). By continuously monitoring critical files, organizations can quickly identify unauthorized modifications, deletions, or additions that may indicate malicious activity or system compromise.
 
 ## 📌 Objectives
-- Understand the role of Integrity within the CIA Triad.
-- Learn how cryptographic hashing is used to verify file integrity.
-- Build a PowerShell-based File Integrity Monitoring solution.
-- Detect file creation, modification, and deletion events.
-- Establish a baseline of trusted files for comparison.
-- Gain hands-on experience with PowerShell scripting and automation.
+- Understand the role of Integrity within the CIA Triad
+- Learn how cryptographic hashing is used to verify file integrity
+- Build a PowerShell-based File Integrity Monitoring solution
+- Detect file creation, modification, and deletion events
+- Establish a baseline of trusted files for comparison
+- Gain hands-on experience with PowerShell scripting and automation
 
 ## 👨🏾‍💻 Technologies & Tools Used
 - PowerShell
