@@ -51,13 +51,13 @@ Project Folder/
 - files/:	Directory containing monitored files
 
 ## 📄 Features
-- Baseline generation using SHA-512 hashing.
-- Detection of newly created files.
-- Detection of modified files.
-- Detection of deleted files.
-- Continuous monitoring loop.
-- Console-based alert notifications.
-- Color-coded event messages.
+- Baseline generation using SHA-512 hashing
+- Detection of newly created files
+- Detection of modified files
+- Detection of deleted files
+- Continuous monitoring loop
+- Console-based alert notifications
+- Color-coded event messages
 
 ## 🪜 Implementation Steps
 
