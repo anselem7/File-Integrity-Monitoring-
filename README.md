@@ -156,12 +156,12 @@ Remove-Item
 
 Through this project, I gained practical experience in:
 
-- Understanding the Integrity principle of the CIA Triad.
-- Using cryptographic hashes to verify file integrity.
-- Building a basic security monitoring solution in PowerShell.
-- Detecting unauthorized file system changes.
-- Working with PowerShell hash tables and file operations.
-- Designing foundational cybersecurity automation tools.
+- Understanding the Integrity principle of the CIA Triad
+- Using cryptographic hashes to verify file integrity
+- Building a basic security monitoring solution in PowerShell
+- Detecting unauthorized file system changes
+- Working with PowerShell hash tables and file operations
+- Designing foundational cybersecurity automation tools
 
 
 ## ✅ Conclusion
