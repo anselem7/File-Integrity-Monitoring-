@@ -46,9 +46,9 @@ Project Folder/
 └── fim.ps1
 ```
 ## 📂 Components
-- fim.ps1:	Main monitoring script
-- baseline.txt:	Stores file paths and corresponding hashes
-- files/:	Directory containing monitored files
+- fim.ps1:	Main monitoring script.
+- baseline.txt:	Stores file paths and corresponding hashes.
+- files/:	Directory containing monitored files.
 
 ## 📄 Features
 - Baseline generation using SHA-512 hashing
