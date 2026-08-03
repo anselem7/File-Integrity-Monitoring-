@@ -123,9 +123,9 @@ Stores:
 ```
 ### Hash Table
 
-Used to store baseline information in memory.
+Used to store baseline information in memory in key-value pairs.
 
-(Key) File Path	--> (Value) SHA-512 Hash
+File Path	--> SHA-512 Hash
 
 ## ⚙️ Functions
 ### CalculateFileHash()
