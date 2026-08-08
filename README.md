@@ -86,7 +86,7 @@ Example:
 ```
 $FileHashDictionary["C:\files\test.txt"] = "HASH_VALUE"
 ```
-### 3. Monitoring Process
+### 3. The Monitoring Process
 
 The monitoring engine runs continuously and:
 
